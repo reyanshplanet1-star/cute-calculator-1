@@ -1,4 +1,4 @@
-const CACHE_NAME = "cute-calculator-v1";
+const CACHE_NAME = "cute-calculator-v2";
 
 const FILES = [
     "./",
