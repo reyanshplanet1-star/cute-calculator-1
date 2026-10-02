@@ -1,0 +1,10 @@
+{
+  "name": "Cute Calculator",
+  "short_name": "Calculator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffeaf4",
+  "theme_color": "#f8ddea",
+  "description": "A cute and simple calculator.",
+  "icons": []
+}
