@@ -1,10 +1,24 @@
 {
   "name": "Cute Calculator",
   "short_name": "Calculator",
-  "start_url": "./index.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffeaf4",
   "theme_color": "#f8ddea",
   "description": "A cute and simple calculator.",
-  "icons": []
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
